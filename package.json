@@ -1,0 +1,24 @@
+{
+  "name": "mongotube",
+  "version": "1.0.0",
+  "description": "a fun project for youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiiParmar/mongo-tube.git"
+  },
+  "author": "Jai Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaiiParmar/mongo-tube/issues"
+  },
+  "homepage": "https://github.com/JaiiParmar/mongo-tube#readme",
+  "dependencies": {
+    "mocha": "^7.1.0",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.2"
+  }
+}
