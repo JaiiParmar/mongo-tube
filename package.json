@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JaiiParmar/mongo-tube#readme",
   "dependencies": {
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "mongoose": "^5.9.4",
     "nodemon": "^2.0.2"
   }
